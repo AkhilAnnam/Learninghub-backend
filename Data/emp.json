@@ -1,0 +1,11 @@
+{
+    "employees" : [
+        {"empid" : 101, "empname": "Akhil" , "salary": 1234.34},
+        {"empid" : 102, "empname": "harsha" , "salary": 1224.34},
+        {"empid" : 103, "empname": "Prashanth" , "salary": 1334.34},
+        {"empid" : 104, "empname": "charan" , "salary": 1534.34},
+        {"empid" : 105, "empname": "nikhil" , "salary": 12734.34}
+    ]
+
+    
+}
